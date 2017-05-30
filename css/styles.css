@@ -8,3 +8,32 @@ p.jump{
   font-style: italic;
   font-weight: bolder;
 }
+
+
+.dark-background{
+  background-color: black;
+}
+
+.light-background{
+  background-color: white;
+}
+
+
+body {
+  text-align: center;
+  background-color: cyan;
+}
+
+
+.dark-text{
+  color: black;
+}
+
+.light-text{
+  color: white;
+}
+
+.main {
+  background-color: cyan;
+  color: pink;
+}
